@@ -29,7 +29,7 @@ const projects = [
   },
   {
     number: "02",
-    name: "BOP Dashboard",
+    name: "BOPW Dashboard",
     category: "SaaS product design",
     type: "Concept study",
     description:
