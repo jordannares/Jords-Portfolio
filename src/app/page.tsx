@@ -107,7 +107,7 @@ function ProjectVisual({
     );
   }
 
-  if (variant === "forma") {
+  if (variant === "BOP") {
     return (
       <div
         aria-label="Forma SaaS dashboard interface preview"
