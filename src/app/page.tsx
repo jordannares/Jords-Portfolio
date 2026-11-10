@@ -29,12 +29,12 @@ const projects = [
   },
   {
     number: "02",
-    name: "BOPP Dashboard",
+    name: "BOP Dashboard",
     category: "SaaS product design",
     type: "Concept study",
     description:
       "A focused workspace concept that turns complex project information into a calmer, clearer overview.",
-    visual: "forma",
+    visual: "BOP",
     tags: ["Dashboard", "Design system", "Prototyping"],
   },
   {
